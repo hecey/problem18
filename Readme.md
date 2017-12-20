@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/hecey/problem18.svg?branch=master)](https://travis-ci.org/hecey/problem18)
+
+[![license](https://img.shields.io/github/license/hecey/problem18.svg)]()
+
+[![GitHub package version](https://img.shields.io/github/package-json/v/hecey/problem18.svg)]()
+
 Maximum path sum I
 Problem 18
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
