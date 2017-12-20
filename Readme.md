@@ -5,7 +5,7 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
-[![GitHub package version](https://img.shields.io/github/package-json/v/hecey/problem18.svg?branch=master)]()
+[![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg)]()
 
 ## Problem 18
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
