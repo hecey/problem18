@@ -16,5 +16,4 @@ var arr = [
 [9, 4],
 [1, 3, 5],
 [7, 1, 6, 8]
-];
-console.log('Result:'+ sumMaxPath(arr));
+];console.log('Result:'+ sumMaxPath(arr));
