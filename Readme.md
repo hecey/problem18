@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/hecey/problem18.svg?branch=master)](https://travis-ci.org/hecey/problem18)
 
-[![license](https://img.shields.io/github/license/hecey/problem18.svg?branch=master)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 [![GitHub package version](https://img.shields.io/github/package-json/v/hecey/problem18.svg?branch=master)]()
 
